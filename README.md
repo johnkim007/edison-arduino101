@@ -57,6 +57,7 @@ Upload the sketch located in arduino/imu/imu.ino to your Arduino 101. After a fe
 Edison
 
 npm install bluetooth-hci-socket
+
 Navigate to edison/ and type node sensors.js to start the program. The Edison console should look similar to this:
 
 root@myedison:~# node sensors.js
